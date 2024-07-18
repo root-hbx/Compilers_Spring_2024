@@ -15,6 +15,10 @@
 - 内容：理论部分基本按照龙书节奏叙述。包括词法分析、语法分析、语义分析、运行时环境、寄存器分配、代码优化与生成等内容
 - 特点：选用了当下热门的 ANTLR （ANother Tool for Language Recognition） v4 编程语言解析生成工具辅助教学，能让使用者专心词法或者语法分析的设计
 
+- Textbook: [Compilers: Principles, Techniques, and Tools](https://zh.wikipedia.org/wiki/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86_(%E6%95%99%E6%9D%90)) (the famous "Dragon Book")
+- Content: The theoretical part is basically described in the rhythm of the Dragon Book. Including lexical analysis, syntax analysis, semantic analysis, runtime environment, register allocation, code optimization and generation, etc.
+- Features: The currently popular ANTLR (ANother Tool for Language Recognition) v4 programming language parsing generation tool is used to assist teaching, allowing users to focus on the design of lexical or syntax analysis
+
 ## Outline
 
 - tutorial
